@@ -15,9 +15,9 @@ hold - The turn total is added to the player's score and it becomes the opponent
 
 ![Flowchart](./pig-game-flowchart.png)
 
-### Screenshot
+### Screenshot of winning player
 
-![Screenshot of winning player](./Screenshot.png)
+![Screenshot](./Screenshot.png)
 
 ### Links
 
