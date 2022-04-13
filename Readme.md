@@ -15,6 +15,10 @@ hold - The turn total is added to the player's score and it becomes the opponent
 
 ![Flowchart](./pig-game-flowchart.png)
 
+### Screenshot
+
+![Screenshot](./Screenshot.png)
+
 ### Links
 
 - [Live Game](https://piggame-rahidt.netlify.app/)
