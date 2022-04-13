@@ -17,7 +17,7 @@ hold - The turn total is added to the player's score and it becomes the opponent
 
 ### Screenshot
 
-![Screenshot](./Screenshot.png)
+![Screenshot of winning player](./Screenshot.png)
 
 ### Links
 
